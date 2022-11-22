@@ -30,6 +30,7 @@ Soft Skills:
 - Adaptability: Able to learn quickly and put them into practice
 - Growth-minded: Embraces failures, accept feedback, and develop my abalities from them
 - Communication & problem-solving: Most used and taking insights from data to communicate with people with no technical backgrounds
+
 <!---
 Maralamar/Maralamar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
