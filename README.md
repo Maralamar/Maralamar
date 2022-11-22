@@ -5,7 +5,7 @@ Contact Information
 * :e-mail: maralamar0510@gmail.com OR maral.amar@du.edu
 
 Education:
-* :mortar_board: University of Denver - BSBA in Business Analytics
+* :mortar_board: University of Denver (DU) - BSBA in Business Analytics
   * :hammer_and_wrench: Minoring Construction Project Management
   * Expected Graduation: June 2023
   * Chancellor's Scholar
@@ -31,6 +31,21 @@ Soft Skills:
 - Growth-minded: Embraces failures, accept feedback, and develop my abalities from them
 - Communication & problem-solving: Most used and taking insights from data to communicate with people with no technical backgrounds
 
+Professional Experience:
+* Real Estate and Construction Management (RECM) Department at DU
+  * Research Assistant
+     * Assist with RECM faculty at DU in carrying out varied agendas including research
+     * Provide detailed and ad-hoc reporting including variance analysis and report validation
+  * Skills used:
+     * Technical: Excel, Bluescape, SQL Server
+     * Soft skills: Communication, Time management, Problem-solving
+
+Social Work:
+* National Society of Leadership and Success at DU
+  * Student President
+  * Resposibilities include:
+     * Project management
+     * Manage, communicate and guide over 1,000 members of DU’s chapter to complete their induction process
 <!---
 Maralamar/Maralamar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
