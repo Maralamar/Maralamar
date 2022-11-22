@@ -1,16 +1,16 @@
 👋 Hi There, I’m Maral, Welcome to my GitHub!
 - I'm a senior BIA student with a passion for problem solving and people.
 
-Contact Information
+:telephone_receiver: Contact Information
 * :e-mail: maralamar0510@gmail.com OR maral.amar@du.edu
 
-Education:
-* :mortar_board: University of Denver (DU) - BSBA in Business Analytics
+:mortar_board: Education:
+* University of Denver (DU) - BSBA in Business Analytics
   * :hammer_and_wrench: Minoring Construction Project Management
   * Expected Graduation: June 2023
   * Chancellor's Scholar
 
-Technical Skills:
+:desktop_computer: Technical Skills:
 * SQL Server:
   * Building databases and validating their stability and efficiency.
   * Creating program views, functions and stored procedures.
@@ -26,12 +26,12 @@ Technical Skills:
   * Extract, load and transform data from an OLTP environment into an OLAP environment
 * Certified in Microsoft MS (Excel, Word, PowerPoint, Access)
 
-Soft Skills:
+:clipboard: Soft Skills:
 - Adaptability: Able to learn quickly and put them into practice
 - Growth-minded: Embraces failures, accept feedback, and develop my abalities from them
 - Communication & problem-solving: Most used and taking insights from data to communicate with people with no technical backgrounds
 
-Professional Experience:
+:briefcase: Professional Experience:
 * Real Estate and Construction Management (RECM) Department at DU
   * Research Assistant
      * Assist with RECM faculty at DU in carrying out varied agendas including research
@@ -40,7 +40,7 @@ Professional Experience:
      * Technical: Excel, Bluescape, SQL Server
      * Soft skills: Communication, Time management, Problem-solving
 
-Social Work:
+:woman_teacher: Social Work:
 * National Society of Leadership and Success at DU
   * Student President
   * Resposibilities include:
